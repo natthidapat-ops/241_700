@@ -44,7 +44,7 @@ body {
     font-weight: bold;
     text-align: center;
     margin-bottom: 20px;
-    color: #333;
+    color: #5bdb8c;
 }
 
 .flex {
@@ -65,7 +65,7 @@ body {
 .form, textarea {
     flex: 1;
     padding: 8px 12px;
-    border: 1px solid #ddd;
+    border: 1px solid #c7e6b6;
     border-radius: 6px;
     font-size: 14px;
 }
